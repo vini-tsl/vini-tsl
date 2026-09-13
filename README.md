@@ -4,7 +4,7 @@
   <img height="200" src="github-header-banner.png" alt="GitHub Header Banner" />
 </div>
 
-## 💻 Sobre mim
+## Sobre mim
 
 Sou **Desenvolvedor Back-end em formação**, com interesse em construir APIs, sistemas web e aplicações conectadas a bancos de dados.
 
@@ -66,7 +66,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS) no UNIPÊ** e bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
-## 🚀 Atualmente
+## Atualmente
 
 Meu foco principal é evoluir como **desenvolvedor Back-end**, aprofundando meus conhecimentos em:
 
@@ -79,32 +79,24 @@ Meu foco principal é evoluir como **desenvolvedor Back-end**, aprofundando meus
 * Arquitetura e organização de projetos
 * Boas práticas de desenvolvimento
 
-Também estou estudando **React** para ampliar minha capacidade de desenvolver aplicações completas.
-
-## 📌 Projetos
+## Projetos
 
 Alguns dos projetos que venho desenvolvendo:
 
-* **EduSystem** — Sistema acadêmico para gerenciamento de alunos, professores, turmas e notas.
-* **Receitas da Vovó** — Aplicação web desenvolvida com Python, Flask e banco de dados.
+* **HelpMuscle** — Sistema acadêmico para gerenciamento de alunos, professores, turmas e notas.
+* **BeeMonitor** — Aplicação web desenvolvida com Python, Flask e banco de dados.
 * **HelpDesk API** — API REST para gerenciamento de chamados de suporte técnico.
 * **Atlas Finance** — Sistema para gerenciamento e acompanhamento financeiro.
 
-## 📫 Contato
+## Contato
 
 <div align="left">
   <a href="https://github.com/vini-tsl">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/vin%C3%ADciusteixeira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 ---
-
-<div align="center">
-
-**"Transformando ideias em código, um projeto de cada vez."** 🚀
-
-</div>
